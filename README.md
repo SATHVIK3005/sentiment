@@ -1,4 +1,3 @@
-Here's a **README** template for a **Sentiment Analysis** project. You can adjust it based on your specific project:
 
 ---
 
@@ -214,6 +213,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to customize this template according to the specific details of your Sentiment Analysis project. You can add extra sections such as dataset information, training details, or more if needed.
 
-Let me know if you need help with anything else!
